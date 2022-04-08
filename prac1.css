@@ -1,0 +1,50 @@
+body {
+    /* background-color: forestgreen; */
+    text-align: center;
+    border: 1px solid rebeccapurple;
+    width:200px;
+    height: auto;
+    fill-opacity: initial;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+.increase, .save {
+    color: blue;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 13px;
+    font-size:large;
+    font-weight: bold;
+    margin: 2px;
+}
+
+.entry {
+    font-size: large;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 0px;
+}
+
+h1 {
+    
+    border: 2px solid wheat;
+    margin: 8px;
+    margin-top: 0px;
+    color: rgb(9, 255, 0);
+}
+
+.count {
+    background-color: rgb(1, 2, 2);
+    color: antiquewhite;
+    border: 1px solid orange ;
+    margin: 4%;
+}
+
+div {
+    background-color: forestgreen;
+    padding: 15px;
+    
+}
